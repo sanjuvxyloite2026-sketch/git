@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hellogit
-=======
-hello sanju
->>>>>>> 20e19847d798a5cb5c771593aec3310715c33d3f
+hi sanju
